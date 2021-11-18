@@ -1,2 +1,1 @@
-# CssGenerator
 CSS generator
